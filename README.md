@@ -1,2 +1,2 @@
-# curb_thai
+# curbside_thai
 Basic HTML project simulating a thai resturant
